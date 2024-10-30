@@ -2,14 +2,14 @@
   <h1>
     ⛅
     <br />
-    Fabio Cielo
+    Fabio
     <br />
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Piedmont.svg" width="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="30"/>
     <br />
     <img src="https://img.shields.io/badge/Politecnico Torino-Master Degree-413d3e?labelColor=002B49" alt="Polito Badge"/>
     <a href="https://github.com/wezard-it">
-      <img src="https://img.shields.io/badge/Wezard-React Native Developer-413d3e?labelColor=ed6e52" alt="Wezard Badge"/>
+      <img src="https://img.shields.io/badge/Wezard-React Native Developer-413d3e?labelColor=cce97f" alt="Wezard Badge"/>
     </a>
     <br />
     <div id="badges">
